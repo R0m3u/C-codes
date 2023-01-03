@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+  // entries for exemplification:
   changeVarValue(33, 87, 2);
 
   return 0;
