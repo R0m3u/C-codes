@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 
-int decToBin(int n) {
+int decToBin(int k) {
     int result;
 
-    result = n;
+    result = k;
 
     while(result != 0) {
         printf("%d", result % 2);
